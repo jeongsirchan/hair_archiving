@@ -1,5 +1,18 @@
 <h1>회원가입</h1>
 
+
+
+
+<div class="custom-control custom-radio custom-control-inline">
+  <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input">
+  <label class="custom-control-label" for="customRadioInline1">남</label>
+</div>
+<div class="custom-control custom-radio custom-control-inline">
+  <input type="radio" id="customRadioInline2" name="customRadioInline1" class="custom-control-input">
+  <label class="custom-control-label" for="customRadioInline2">여</label>
+</div>
+
+
 <%= render 'form', user: @user %>
 
 <%= link_to 'Back', users_path %>
