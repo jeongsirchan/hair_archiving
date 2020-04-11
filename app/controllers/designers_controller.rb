@@ -60,6 +60,9 @@ class DesignersController < ApplicationController
       format.json { head :no_content }
     end
   end
+    #홍현 작업중
+  def admin
+  end
 
   private
     # Use callbacks to share common setup or constraints between actions.

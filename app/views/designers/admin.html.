@@ -1,0 +1,22 @@
+<html>
+<head>
+<title></title>
+<meta charset="UTF-8">
+<link href="admin.css" rel="stylesheet">
+</head>
+
+
+<div class="header">
+    <img class="logo">
+    <div class="menu">
+        <a>전체보기</a>
+    </div>
+    
+</div>
+
+
+<div></div>
+<div></div>
+<div></div>
+
+</html>
